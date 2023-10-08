@@ -1,3 +1,5 @@
+(DEPRECIATED)
+
 This program searches for available seats on YHT. YHT stands for High Speed Train in Turkey.
 
 Program automaticly searches for available seats according to user's inputs.
